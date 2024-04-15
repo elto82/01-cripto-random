@@ -52,7 +52,7 @@ const App = () => {
         </button>
 
       </div>
-
+      <hr />
     </>
   )
 }
